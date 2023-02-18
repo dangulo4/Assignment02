@@ -12,7 +12,7 @@ Usage: Use simple conditional statements
 
 - Create an application that prompts the user for a language code ("es", "de", "en", and "fr"). If they enter one of the four codes, display the translated version of "Hello World" for the given language within the console window. If the user enters anything but those four language codes, the application should default to English. The result should be (for example):
 
-<Hello World translated in French is: Bonjour le monde>
+`Hello World translated in French is: Bonjour le monde`
 
 ## The “Coin Flip” Game
 
@@ -22,7 +22,7 @@ In this part of the assignment you will explore what you’ve learned so far abo
 
 - Begin your application by creating a variable called coinFlip and set it equal to a random number. You will have to use a Math method to get this number:
 
-<let randomNum = Math.round(Math.random())>
+`let randomNum = Math.round(Math.random())`
 
 1. Prompt the user to select “Heads or Tails” and set the result to a new variable called choice.
 
@@ -30,19 +30,19 @@ In this part of the assignment you will explore what you’ve learned so far abo
 
 3. If the result is heads and the user selects heads, display the following message within an alert:
 
-<The flip was heads and you chose heads...you win!>
+`The flip was heads and you chose heads...you win!`
 
 4. If the result is heads and the user selects tails, display the following message within an alert:
 
-<The flip was heads but you chose tails...you lose!>
+`The flip was heads but you chose tails...you lose!`
 
 5. If the result is tails and the user selects heads, display the following message within an alert:
 
-<The flip was tails but you chose heads...you lose!>
+`The flip was tails but you chose heads...you lose!`
 
 6. If the result is tails and the user selects tails, display the following message within an alert:
 
-<The flip was tails and you chose tails...you win!>
+`The flip was tails and you chose tails...you win!`
 
 ## The “Grade Assigner” Application
 
